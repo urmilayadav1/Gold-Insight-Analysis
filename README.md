@@ -1,26 +1,30 @@
 # Gold Insight Analysis
 
-Gold Insight Analysis is a data-driven exploration of the gold market that integrates multiple datasets to extract actionable business insights. This project showcases advanced data integration, interactive visualization, and strategic analysis for a business analyst portfolio.
+[![Tableau](https://img.shields.io/badge/Tableau-Interactive-blue)](https://public.tableau.com/) [![Business Analysis](https://img.shields.io/badge/Business-DataDriven-green)]()
+
+**Gold Insight Analysis** is a data-driven exploration of the gold market, integrating Excel datasets to uncover actionable insights for strategic decision-making.
 
 ## Datasets
-- **Gold Insight Dataset:** Historical data on gold demand and jewellery trends.
-- **Macro-Economics Insight Dataset:** Key economic indicators (GDP, inflation, etc.) influencing gold demand.
-- **Unassigned Region Classification:** UN-based region classifications for refined geographic analysis.
+- **Gold Insight:** Historical gold demand and jewellery trends.
+- **Macro-Economics:** Key economic indicators (GDP, inflation, etc.).
+- **Region Classification:** UN-based regional data for enhanced geographic insights.
 
-## Analytical Approach
-- **Data Integration:** Combined Excel datasets to form a unified view.
-- **Interactive Visualization:** Developed dynamic Tableau dashboards covering:
-  - **Economic Context:** Linking macroeconomic trends with gold demand.
-  - **Population Impact:** Demonstrating the correlation between population and consumption.
-  - **Gold Jewellery Analysis:** Showcasing seasonal and cultural trends in the jewellery sector.
+## Dashboards
+- **Economic Context:** Linking macro trends with gold demand.
+- **Population Impact:** Visualizing correlations between population growth and consumption.
+- **Jewellery Insights:** Revealing seasonal and cultural patterns in gold jewellery demand.
+
+## How to Use
+1. **Download** the provided Excel files and Tableau workbook.
+2. **Open** the workbook in Tableau and connect to the datasets.
+3. **Explore** interactive dashboards and follow the built-in Tableau story.
 
 ## Key Insights
-- Gold demand increases annually, led by the jewellery sector.
-- Population growth directly correlates with increased gold consumption.
-- The fourth quarter consistently peaks in gold demand.
-- Regional analysis reveals the USA as a gold reserve leader, with China and India driving demand, particularly in jewellery.
+- Annual growth in gold demand, with a strong lead from the jewellery sector.
+- Direct correlation between population size and gold consumption.
+- Noticeable demand peaks in the fourth quarter.
+- The USA leads in reserves, while China and India drive demand.
 
-1. **Data Preparation:** Download the Excel files included in the repository.
-2. **Visualization:** Open the provided Tableau workbook and connect to these Excel files.
-3. **Exploration:** Review interactive dashboards and the guided Tableau story for detailed insights.
+---
 
+For more info, reach out at [email](urmila1412.yadav@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/urmila-yadav-4475771bb/).
