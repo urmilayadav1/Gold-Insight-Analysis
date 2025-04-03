@@ -27,4 +27,4 @@
 
 ---
 
-For more info, reach out at [urmila1412.yadav@gmail.com](mailto:urmila1412.yadav@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/urmila-yadav-4475771bb/).
+For more info, reach out at [Email me](mailto:urmila1412.yadav@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/urmila-yadav-4475771bb/).
